@@ -5,7 +5,7 @@ A jatekos a jobb felso sarokbol kezd
 wasd + enterrel mozog
 elso papir felvetele utan jelenik meg pajtasunk
 minden akadalynak szamit kiveve a kis meretu fa, es nagy meretu fa
-utobbi ketton at tudsz gyalogolni, de ezzel le is rombolod, mert igy volt olcso megoldani :)
+utobbi ketton at tudsz gyalogolni, de ezzel le is rombolod, mert ig volt olcso megoldani :)
 A papirok random spawnolnak, minden tereptargyon pontosan 1x
 ezeket max 2 tavolsagbol tudod elerni
 pl toled balra x-2 re van 1 papir, akkor press s + ENTER, es maris latod hogy osszegyujtotted
@@ -24,3 +24,4 @@ Lila - Hordo
 @ - Jatekosunk
 piros o - enemy
 
+y
