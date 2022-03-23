@@ -1,6 +1,8 @@
 # HELLO
 
 ## Java command line jatek
+### Gyujtsd ossze az osszes papirt, mielott elkap Slenderman
+
 A jatekos a jobb felso sarokbol kezd
 wasd + enterrel mozog
 elso papir felvetele utan jelenik meg pajtasunk
@@ -23,6 +25,7 @@ ha nem jon ossze a streak, akkor nullazza, majd elorol kezdi, ha arra kerul a so
 - Lila - Hordo
 - @ - Jatekosunk
 - piros o - enemy
+- piros x - papir
 
 
 ![image](https://user-images.githubusercontent.com/97035194/159770356-b7e93072-4fe2-4540-8950-0ca03154c89d.png)
