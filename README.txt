@@ -1,6 +1,6 @@
 HELLO
 
-En IntelliJ IDEA-t hasznaltam a megjelenitesre, please ezt hasznald, mashol valoszinuleg benak a specialis karaketerek
+
 A jatekos a jobb felso sarokbol kezd
 wasd + enterrel mozog
 elso papir felvetele utan jelenik meg pajtasunk
@@ -24,4 +24,3 @@ Lila - Hordo
 @ - Jatekosunk
 piros o - enemy
 
-ENJOY, and god have mercy on us in the vizsgaidoszak! :)
