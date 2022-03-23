@@ -1,6 +1,6 @@
-HELLO
+# HELLO
 
-
+## Java command line jatek
 A jatekos a jobb felso sarokbol kezd
 wasd + enterrel mozog
 elso papir felvetele utan jelenik meg pajtasunk
