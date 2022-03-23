@@ -14,14 +14,15 @@ Ha melled teleportal Slenderman, megjelenik egy szamlalo, es ha 3x melled telepo
 ha nem jon ossze a streak, akkor nullazza, majd elorol kezdi, ha arra kerul a sor
 
 # keret
-Fekete - Szikla
-Kek - Auto
-Sarga - Teherauto
-2x2 Zold - Nagy Meretu Fa
-Zold - Kis Meretu Fa
-Turkiz - Haz
-Lila - Hordo
-@ - Jatekosunk
-piros o - enemy
+- Fekete - Szikla
+- Kek - Auto
+- Sarga - Teherauto
+- 2x2 Zold - Nagy Meretu Fa
+- Zold - Kis Meretu Fa
+- Turkiz - Haz
+- Lila - Hordo
+- @ - Jatekosunk
+- piros o - enemy
 
-y
+
+![image](https://user-images.githubusercontent.com/97035194/159770356-b7e93072-4fe2-4540-8950-0ca03154c89d.png)
